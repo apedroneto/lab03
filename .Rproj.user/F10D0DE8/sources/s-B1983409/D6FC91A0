@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539181800407.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6FC91A0",
+    "lastKnownWriteTime" : 177,
+    "last_content_update" : 1539181800407,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "18EEB16B",
+        "caption" : "dados_de_2006",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dados_de_2006&cache_key=18EEB16B",
+        "displayedObservations" : 3436,
+        "environment" : "",
+        "object" : "dados_de_2006",
+        "preview" : 0,
+        "totalObservations" : 3436,
+        "variables" : 24
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
